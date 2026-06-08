@@ -2,7 +2,7 @@
 title: "NEXTDC: Building Australia’s cloud and AI future"
 date: "2025-06-08"
 category: "Investment Analysis"
-excerpt: "The market is pricing panic, not fundamentals. Here is what the structural demand data actually tells us about where lithium plays sit in a decade-long energy transition story."
+excerpt: "NEXTDC is running fast to keep up with the demand for high-density cloud and AI deployments."
 readingTime: "5 min"
 featured: true
 ---
@@ -20,13 +20,17 @@ NEXTDC isn't a glamorous business, but it plays a critical role in enabling Aust
 
 NEXTDC is raising the cash to build and operate Australia's data centres. And as you'd expect, it's a cash hungry operation. NEXTDC's full-year guidance for capital expenditure in FY26 is in the range of A$2.4 to $2.7 billion. To put this in perspective, full-year net revenue guidance is just $390–400 million.
 
-NEXTDC is building quickly to keep up with contracted demand, which is a good problem to have. Think of it like an apartment building, but instead of floor space NEXTDC is selling megawatts.
+NEXTDC is building quickly to keep up with contracted demand, which is a good problem to have.
+
+## From megawatts to margins
+
+Think of it like apartment building. When tenants sign up, there's a good chance that revenue will be booked, even if the build isn't ready yet. The difference is that, instead of floor space, NEXTDC is selling megawatts.
 
 That’s why NEXTDC talks a lot about *forward-order-book conversion*. NEXTDC's current billing utilisation is 119.8MW of power-and-cooling capacity (this is what customers are currently paying for). However, contracted utilisation is 416.6MW (this is what customers have signed up for).
 
-For scale, 1MW is roughly the average draw of *800–1,000 typical homes*, which makes NEXTDC's 416.6MW of contracted capacity comparable to the power demand of a small city.
+For scale, 1MW is roughly the average draw of *800 to 1,000 typical homes*, which makes NEXTDC's contracted capacity comparable to the power demand of a small city.
 
-Contracted utilisation is roughly *2.5 times the current billing level*. If NEXTDC can convert this gap into actual billings over the next few years, it will lock in profitability. The only question is whether the business stabilises or keeps building.
+Contracted utilisation is roughly *2.5 times the current billing level*. If NEXTDC can convert this gap into actual billings over the next few years, it will lock in profitability. The only question is whether the business stabilises or keeps building to meet growing demand.
 
 ## Solid fundamentals with a clear path to profit
 
@@ -40,6 +44,6 @@ Looking into the future, the EBITDA from fully-billed capacity would be large en
 
 NEXTDC is the direct beneficiary of the powerful AI trend. It has the potential to be one of Australia’s less glamorous but no less essential AI champions. There are risks ahead, including execution risk from construction and supply chains, and the risk of dilutive capital raisings. For now, NEXTDC can sustain it's preference for debt and third party capital.
 
-But the demand for datacentres isn’t going away and the market is still captivated by the AI theme.
+The demand for data centres isn’t going away and the market is still captivated by the AI theme.
 
 NEXTDC is also getting better at building and designing centres. And it has even more to practice on. This will embed more operational, network and scale efficiencies for customers and build the moat even deeper for potential challengers.
