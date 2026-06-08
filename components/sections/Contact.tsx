@@ -14,8 +14,8 @@ export default function Contact() {
             visualisation projects, and strategic advisory. Based in Melbourne,
             working with clients globally.
           </p>
-          <a href="mailto:hello@gordontoy.com" className="clink">
-            <span>hello@gordontoy.com</span>
+          <a href="mailto:gordontoy@gmail.com" className="clink">
+            <span>gordontoy@gmail.com</span>
             <span aria-hidden="true">→</span>
           </a>
         </div>
