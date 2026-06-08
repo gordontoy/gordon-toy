@@ -28,7 +28,7 @@ Think of it like apartment building. When tenants sign up, there's a good chance
 
 That’s why NEXTDC talks a lot about *forward-order-book conversion*. NEXTDC's current billing utilisation is 119.8MW of power-and-cooling capacity (this is what customers are currently paying for). However, contracted utilisation is 416.6MW (this is what customers have signed up for).
 
-For scale, 1MW is roughly the average draw of *800 to 1,000 typical homes*, which makes NEXTDC's contracted capacity comparable to the power demand of a small city.
+For scale, 1MW is roughly the average draw of *1,500 typical homes*, which makes NEXTDC's contracted capacity comparable to the power demand of a small city.
 
 Contracted utilisation is roughly *2.5 times the current billing level*. If NEXTDC can convert this gap into actual billings over the next few years, it will lock in profitability. The only question is whether the business stabilises or keeps building to meet growing demand.
 
