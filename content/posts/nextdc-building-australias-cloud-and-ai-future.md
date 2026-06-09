@@ -42,7 +42,7 @@ Looking into the future, the EBITDA from fully-billed capacity would be large en
 
 ## Australia's (less glamorous) AI champion
 
-At $15.36, NEXTDC's price reflects the market's view that most of its capacity will convert, with healthy margins and unit economics. However, the AI demand driver and NEXTDC's track record of execution make this an attractive buy.
+At $15.86 at the time of writing, NEXTDC's price reflects the market's view that most of its capacity will convert, with healthy margins and unit economics. However, the AI demand driver and NEXTDC's track record of execution make this an attractive buy.
 
 NEXTDC is the direct beneficiary of the powerful AI trend. It has the potential to be one of Australia’s less glamorous but no less essential AI champions. There are risks ahead, including execution risk from construction and supply chains, and the risk of dilutive capital raisings. For now, NEXTDC can sustain it's preference for debt and third party capital.
 
